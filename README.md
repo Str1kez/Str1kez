@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi everyone 👋
+- 😄 My name is Ilya 
+- ✌️ 21 years old 
+- 🐍 I'm learning Python
+- 🟢 Currently learning Django, FastAPI
+- 😅 Promising backend developer 
 <!--
 **Str1kez/Str1kez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
