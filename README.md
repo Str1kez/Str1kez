@@ -1,12 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20Everyone!&fontSize=90&animation=scaleIn&reversal=true)
 - 😄 My name is Ilya 
 - ✌️ 21 years old 
-- 🟢 Currently learning Django, FastAPI
+- 🟢 Currently learning Python, Go
 - 😅 Promising backend developer 
 - 🏀 Inaccurate shooter 😃
-
-
-## My Stack
 
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Str1kez-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -27,14 +24,6 @@
   <img height="40" align="center" alt="Str1kez-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Str1kez&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
-
 [![codewars](https://www.codewars.com/users/Str1kez/badges/large)](https://www.codewars.com/users/Str1kez)   
 
----
-
 ![Snake animation](https://github.com/Str1kez/Str1kez/blob/output/github-contribution-grid-snake.svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Time+for+jokes+xD)](https://git.io/typing-svg)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
