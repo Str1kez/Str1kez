@@ -26,4 +26,4 @@
 
 [![codewars](https://www.codewars.com/users/Str1kez/badges/large)](https://www.codewars.com/users/Str1kez)   
 
-![Snake animation](https://github.com/Str1kez/Str1kez/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Str1kez/Str1kez/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
