@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20Everyone!&fontSize=90&animation=scaleIn&reversal=true)
 - 😄 My name is Ilya 
-- ✌️ 21 years old 
-- 🟢 Currently learning Python, Go
+- ✌️ 22 years old 
+- 🟢 Currently learning Python, Go, Rust
 - 😅 Promising backend developer 
 - 🏀 Inaccurate shooter 😃
 
-<div style="display: inline_block"><br>
+<div hidden style="display: inline_block"><br>
   <img height="40" align="center" alt="Str1kez-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img height="40" align="center" alt="Str1kez-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img height="40" align="center" alt="Str1kez-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
