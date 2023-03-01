@@ -5,7 +5,7 @@
 - 😅 Promising backend developer 
 - 🏀 Inaccurate shooter 😃
 
-<div hidden style="display: inline_block"><br>
+<!-- <div hidden style="display: inline_block"><br>
   <img height="40" align="center" alt="Str1kez-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img height="40" align="center" alt="Str1kez-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img height="40" align="center" alt="Str1kez-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
@@ -22,7 +22,7 @@
   <img height="40" align="center" alt="Str1kez-AmazonECS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img height="40" align="center" alt="Str1kez-Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
   <img height="40" align="center" alt="Str1kez-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-</div> <br>
+</div> <br> -->
 
 ![Snake animation](https://github.com/Str1kez/Str1kez/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation](https://github.com/Str1kez/Str1kez/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
