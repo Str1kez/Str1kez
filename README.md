@@ -5,6 +5,8 @@
 - 🧑‍💻 Software engineer
 - 🏀 Inaccurate shooter 😃
 
+[![wakatime](https://wakatime.com/badge/user/b28ddf40-d1e9-42a9-a898-9ae42445e8c0.svg)](https://wakatime.com/@b28ddf40-d1e9-42a9-a898-9ae42445e8c0)
+
 <!-- <div hidden style="display: inline_block"><br>
   <img height="40" align="center" alt="Str1kez-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img height="40" align="center" alt="Str1kez-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
