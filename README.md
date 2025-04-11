@@ -26,8 +26,15 @@
   <img height="40" align="center" alt="Str1kez-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div> <br> -->
 
+<!--
 ![Snake animation](https://github.com/Str1kez/Str1kez/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation](https://github.com/Str1kez/Str1kez/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+-->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Str1kez/Str1kez/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Str1kez/Str1kez/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Str1kez/Str1kez/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 [![codewars](https://www.codewars.com/users/Str1kez/badges/large)](https://www.codewars.com/users/Str1kez)   
