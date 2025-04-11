@@ -3,21 +3,29 @@ on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+    - master
+
 jobs:
   build:
     name: Jobs to update datas
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@v2
-        id: snake-gif
+      - name: build animation
+        uses: Platane/snk/svg-only@v3
   
         with:
-          github_user_name: Str1kez
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
+            
+      - name: push content into branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
