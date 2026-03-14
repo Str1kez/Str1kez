@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20Everyone!&fontSize=90&animation=scaleIn&reversal=true)
 - 😄 My name is Ilya 
-- ✌️ 24 years old 
+- ✌️ 25 years old 
 - ❤️ Python, Go, Rust
 - 🧑‍💻 Software engineer
 - 🏀 Inaccurate shooter 😃
